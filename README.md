@@ -1,6 +1,6 @@
 # Free ChatGPT API (Unofficial) 🚀  
 
-A **free and unofficial ChatGPT API** built using **automation and web scraping** with Puppeteer/Playwright. This API allows you to interact with ChatGPT **without needing OpenAI's API key**!  
+A **free and unofficial ChatGPT API** built using **automation and web scraping** with Puppeteer. This API allows you to interact with ChatGPT **without needing OpenAI's API key**!  
 
 ---
 
