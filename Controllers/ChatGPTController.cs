@@ -30,8 +30,8 @@ public class ChatGPTController : ControllerBase
             {
                 Browser = SupportedBrowser.Chrome,
                 Headless = true,
-                ExecutablePath = "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-                UserDataDir = "/Users/smil/Library/Application Support/Google/Chrome",
+                ExecutablePath = "PATH TO YOUR CHOMRE EXE",
+                UserDataDir = "PATH TO USER DATA FOR CHROME YOU CAN REMOVE THIS IF NOT REQUIRED",
                 Args = ["--disable-blink-features=AutomationControlled", "--no-sandbox", "--disable-setuid-sandbox"]
             });
 
