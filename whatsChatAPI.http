@@ -1,0 +1,6 @@
+@whatsChatAPI_HostAddress = http://localhost:5226
+
+GET {{whatsChatAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

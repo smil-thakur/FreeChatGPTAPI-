@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whatsChatAPI", "whatsChatAPI.csproj", "{28DF7D7E-EADD-80C8-89D9-53779AA16EF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28DF7D7E-EADD-80C8-89D9-53779AA16EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28DF7D7E-EADD-80C8-89D9-53779AA16EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28DF7D7E-EADD-80C8-89D9-53779AA16EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28DF7D7E-EADD-80C8-89D9-53779AA16EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62CE69D6-5224-4F28-8CC3-8DC473FDCDD6}
+	EndGlobalSection
+EndGlobal
